@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
