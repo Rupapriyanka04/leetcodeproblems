@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0283-move-zeroes) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0189-rotate-array) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
 ## Two Pointers
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
