@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2213-longest-substring-of-one-repeating-character) |
