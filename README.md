@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0283-move-zeroes) |
+| [1386-cinema-seat-allocation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -84,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
