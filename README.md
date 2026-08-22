@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0189-rotate-array) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
