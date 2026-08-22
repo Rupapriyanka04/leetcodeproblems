@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0283-move-zeroes) |
@@ -71,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
