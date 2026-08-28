@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0189-rotate-array) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
