@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0283-move-zeroes) |
 | [1386-cinema-seat-allocation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
+| [1901-find-a-peak-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0048-rotate-image) |
+| [1901-find-a-peak-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1901-find-a-peak-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1901-find-a-peak-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1901-find-a-peak-element-ii) |
 ## Recursion
 |  |
 | ------- |
