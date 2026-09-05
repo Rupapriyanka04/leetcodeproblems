@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3903-smallest-stable-index-i](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3904-smallest-stable-index-ii) |
 ## Trie
 |  |
 | ------- |
