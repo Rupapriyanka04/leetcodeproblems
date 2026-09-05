@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3903-smallest-stable-index-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
