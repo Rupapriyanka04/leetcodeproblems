@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [1386-cinema-seat-allocation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 ## Quicksort
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
 ## Game Theory
@@ -226,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
