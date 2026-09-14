@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
