@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [1901-find-a-peak-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1901-find-a-peak-element-ii) |
 ## Recursion
 |  |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3904-smallest-stable-index-ii) |
 ## Trie
