@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0856-score-of-parentheses) |
@@ -292,8 +293,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0040-combination-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0301-remove-invalid-parentheses) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0509-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
