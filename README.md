@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Recursion
 |  |
