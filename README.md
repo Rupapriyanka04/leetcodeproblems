@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1254-number-of-closed-islands](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1901-find-a-peak-element-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
