@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [1386-cinema-seat-allocation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -234,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
