@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3727-maximum-alternating-sum-of-squares) |
