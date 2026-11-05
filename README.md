@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1539-kth-missing-positive-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1901-find-a-peak-element-ii) |
