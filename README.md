@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0836-rectangle-overlap](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bracket Sequences
 |  |
@@ -402,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
