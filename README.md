@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1352-product-of-the-last-k-numbers) |
 | [2029-stone-game-ix](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2409-count-days-spent-together) |
 | [3360-stone-removal-game](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3360-stone-removal-game) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3904-smallest-stable-index-ii) |
@@ -412,4 +415,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3411-maximum-subarray-with-equal-products) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
