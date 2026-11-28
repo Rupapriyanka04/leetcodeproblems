@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3904-smallest-stable-index-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/0451-sort-characters-by-frequency) |
 | [1882-process-tasks-using-servers](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Rupapriyanka04/leetcodeproblems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
